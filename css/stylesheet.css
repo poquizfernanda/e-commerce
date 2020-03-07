@@ -1,0 +1,94 @@
+#logo {
+    width: 70px;
+    height: 70px;
+}
+.num {
+    padding-left: 750px;
+}
+#profile {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: black solid 2px;
+}
+#bgimage {
+    width: 1000px;
+    height: 500px;
+}
+#firstimg {
+    width: 1500px;
+    height: 500px;
+
+}
+#secondimg {
+    width: 1500px;
+    height: 500px;
+}
+#thirdimg {
+    width: 1500px;
+    height: 500px;
+}
+#bground {
+    width: 1400px;
+    height: 800px;
+}
+#mypic{
+    width: 200px;
+    height: 200px;
+
+}
+#bcontact {
+    background-color:#f1951c9d;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+#msg {
+    font-size: large;
+    font-family: georgia;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+
+}
+#btn {
+    padding-left: 1px
+}
+#body1 {
+    background-image: url(../img/60.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#jumbotron {
+    background-color: rgba(0, 0, 0, 0);
+}
+#tbrasomon {
+    color: yellow;
+    margin-top: 200px;
+    font-family: georgia;
+    font-size: 100px;
+}
+#jb {
+    background-image: url(../img/35.jpg);
+}
+#about {
+    font-family: georgia;
+}
+#paragraph {
+    font-family: arial;
+}
+#message1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 200px;
+    padding-left: 200px;
+    background-color:#f1951c9d;
+    font-weight: bold;
+    font-size: 50px;
+}
+#shop {
+    background-color: rgba(247, 229, 229, 0.781);
+}
+#footer {
+    margin-left: 450px;
+    margin-right: 450px;
+}
